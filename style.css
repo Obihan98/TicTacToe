@@ -1,0 +1,26 @@
+.game{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.block{
+    width: 80px;
+    height: 80px;
+    background-color: antiquewhite;
+    border: 1px solid;
+    border-color: black;
+    cursor: pointer;
+    padding: 0;
+}
+
+img{
+    width: 78px;
+    height: 78px;
+}
+
+h1{
+    text-align: center;
+}
+
