@@ -57,3 +57,7 @@ h1{
     background-color: black;
     color: white;
 }
+
+#status{
+    margin-top: 10px;
+}
